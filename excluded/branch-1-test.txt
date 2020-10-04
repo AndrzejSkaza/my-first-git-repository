@@ -1,1 +1,2 @@
-Nowu branch-1 oraz jego modyfikacja.
+
+Nowu branch 1 conflikt rozwiązany 
